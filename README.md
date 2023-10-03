@@ -1,2 +1,2 @@
-# codsoft_taskno1
-C++ task 1 (TIC-TAC-TOE GAME)
+# codsoft_taskno3
+C++ task 3 (TIC-TAC-TOE GAME)
